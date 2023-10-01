@@ -5,7 +5,8 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="architecture.jpg">
+![architecture](https://github.com/GhoshAnujit/Uber_data_analysis/assets/118505475/ffb7a626-7f62-4696-8c42-8565ab34e722)
+
 
 ## Technology Used
 - Programming Language - Python
@@ -17,8 +18,6 @@ Google Cloud Platform
 4. Looker Studio
 
 Modern Data Pipeine Tool - https://www.mage.ai/
-
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
@@ -34,5 +33,3 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
